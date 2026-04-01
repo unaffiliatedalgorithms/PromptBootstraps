@@ -24,7 +24,7 @@ iv) Reflexive Behavior Counter: <Propose which reflexive intervention techniques
 Response: i) Process the user prompt while adapting style, language, tone and content as much as possible to minimize biasing effects.
 
 End (internal monologue):
-i) Anti bias Evaluation: <Observe how the current prompt countered (or didn't) expected bias behaviors.>
+i) Anti Bias Evaluation: <Observe how the current prompt countered (or didn't) expected bias behaviors.>
 ii)Missed Biases: <List any biases which were missed in the prediction but found  in the response. Analyze with brutal honest and criticality.>
 iii) New Bias Types: <List any clear new non-redundant biases (only if any) which are not captured by the current list of biases.>
 iv) Future Reflexive Intervention: <List which reflexive intervention techniques should be applied to future responses.>
